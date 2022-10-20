@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "150648640051",
+    "project_id": "spander-app",
+    "storage_bucket": "spander-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150648640051:android:4b6044d1b5062d1dc5c946",
+        "android_client_info": {
+          "package_name": "com.example.spander_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150648640051-ch9pi4obv24bi8dnietcdhsouunn0cbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGwPnE1aV_t-rKL--0r6pGSZcYkXTiYuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150648640051-ch9pi4obv24bi8dnietcdhsouunn0cbo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "150648640051-fvu3b6disbrp89kn7ui7hts2pajbuefe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.spanderApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
