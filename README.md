@@ -1,4 +1,4 @@
-# spander_application
+# spanner
 
 A new Flutter project.
 
